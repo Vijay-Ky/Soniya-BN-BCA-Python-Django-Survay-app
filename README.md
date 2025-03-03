@@ -1,1 +1,1 @@
-# Soniya-BN-BCA-Python-Developer-Survey-Data-Analysis-Project-with-Python-and-Pandas
+# django-survey-app
